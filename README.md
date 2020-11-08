@@ -4,7 +4,7 @@ Match the skill level and availability of an employee for a project and it's res
 
 ## Repository Overview
 
-- Backend APIs and algorithm for resource-matching, uses NoSQL MondoDb to manipulate and process the data
+- Backend APIs and algorithm for resource-matching, using NoSQL MondoDB to manipulate and process the data
 
 ## Prerequisites
 
